@@ -6,7 +6,7 @@
 
 
 # ========== Load data ==========
-source('~/R/Data Science/getDataset.R')
+source('getDataset.R')
 
 
 # ========== Load library ==========
